@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projeto_App_Developer_finalversion</string>
+
+    <string-array name="formas_pagamento">
+        <item>Selecione a Forma de Pagamento</item>
+        <item>Cartão de Crédito</item>
+        <item>Pix</item>
+        <item>Boleto</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,38 @@
+# Built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Generated files
+/bin/
+/gen/
+/out/
+/build/
+
+# Gradle files
+.gradle/
+/build/
+/local.properties
+
+# Android Studio IDE
+.idea/
+/.idea
+*.iml
+*.iws
+*.ipr
+*.swp
+
+# Keystore files
+*.jks
+.keystore
+
+# Log Files
+*.log
+
+# OSX specific
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
