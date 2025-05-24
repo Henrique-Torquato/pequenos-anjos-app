@@ -35,18 +35,8 @@ A interface foi inspirada no estilo moderno e humanizado do canal [@UILover](htt
 
 - **Android Studio**
 - **Java** <!-- ou Kotlin, ajuste se necessário -->
-- **[Insira aqui o banco de dados usado, ex: Firebase / SQLite / Room]**
 - **XML para UI**
 - **GitHub** para versionamento
-
----
-
-## 📷 Imagens do App
-
-<!-- Substitua os caminhos abaixo pelas imagens reais do seu projeto -->
-![Tela de Doações](img/doacoes.png)
-![Tela de Voluntariado](img/voluntariado.png)
-![Tela de Adoção](img/adocao.png)
 
 ---
 
